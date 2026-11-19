@@ -1,0 +1,12 @@
+# 原始行情与基金数据不入库
+l2_sz*
+l2_sh*
+fund_*
+*_candidates.json
+*_progress.json
+*_output.json
+*_result.json
+*.db
+*.sqlite
+__pycache__/
+*.pyc
